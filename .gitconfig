@@ -5,5 +5,8 @@
 	br = branch
 	cm = commit
 	ch = checkout
+	df = diff
 [pull]
 	ff = only
+[push]
+	default = simple
