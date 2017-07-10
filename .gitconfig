@@ -1,0 +1,9 @@
+[user]
+	name = Filip Halaxa
+[alias]
+	st = status
+	br = branch
+	cm = commit
+	ch = checkout
+[pull]
+	ff = only
