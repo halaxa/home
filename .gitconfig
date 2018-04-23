@@ -1,11 +1,13 @@
 [user]
 	name = Filip Halaxa
+	email = filip@halaxa.cz
 [alias]
 	st = status
 	br = branch
 	cm = commit
 	ch = checkout
 	df = diff
+	lg = "log --decorate --graph --format='%C(auto)%h%d %s %Cgreen[%an, %ar]'"
 [pull]
 	ff = only
 [push]
